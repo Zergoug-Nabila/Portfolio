@@ -1,2 +1,2 @@
-Name: streamlit_lottie
+Name: streamlit-lottie
 Version: 0.0.5
