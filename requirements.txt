@@ -1,0 +1,2 @@
+Name: streamlit-lottie
+Version: 0.0.5
